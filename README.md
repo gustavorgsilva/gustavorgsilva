@@ -61,7 +61,7 @@ Sinta-se à vontade para entrar em contato comigo caso tenha dúvidas ou queira 
 
 ---
 
-*Estou sempre aberto(a) a aprender e colaborar com outros desenvolvedores e profissionais da área.*
+*Estou sempre aberto a aprender e colaborar com outros desenvolvedores e profissionais da área.*
 
 ---
 
